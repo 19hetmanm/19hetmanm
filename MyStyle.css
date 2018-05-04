@@ -1,0 +1,159 @@
+body {
+	margin-left:10%;
+	margin-right:10%;
+	background-color:#98AFC7; 
+	/*color=blueish-gray*/
+	min-width:720px;
+	margin: 0 atuo;
+}
+div {
+	box-shadow:2px 5px;
+	border: black solid 2px;
+	border-radius: 25px;
+	background-color: white;
+	padding:1em;
+	margin:3px;	
+}	
+h1 {
+	background-color:#ffb3b3;
+	/*color=light pink*/
+	padding:1em;
+	border-width:1.5px;
+	border-style:dotted;
+	border-color:black;
+	margin:5px;
+	font-family:Arial;
+	font-size:55px;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	font-size:30px;
+}
+h3 {
+	font-family:Times New Roman;
+	font-size: 20px;
+}
+h4 {
+	font-family:Times New Roman;
+	font-size: 15px;
+}
+p {
+	margin:25px;
+}
+ul {
+	background-color: white;
+	margin:0 auto;
+	font-size:16px;
+}
+li {
+	font-family:Times New Roman;
+	font-size:20px;
+	margin: 0 auto;
+}
+table{
+	padding:1.5em;
+	border-width:5px;
+	border-style:solid;
+	border-color:black;
+	margin: 0 auto;
+	font-family:Times New Roman;
+	font-size:20px;
+	text-align: center;
+}
+th {
+	padding:1em;
+	border-width:2px;
+	border-style:dotted;
+	border-color:black;
+	font-size:30px;
+	background-color: #ff99ff;
+	/*color=pink*/
+}
+td {
+	padding:1em;
+	border-width:2px;
+	border-style:solid;
+	border-color:black;
+	background-color:#c299ff;
+	/*color=purple*/
+}
+caption{
+	font-family:Arial;
+	font-size:45px;
+	margin: 0 auto;
+}
+h4#second_title{
+	color:black;
+	font-weight: bold;
+	background:#C0A5ED;
+	/*color=deeper shade of purple*/
+	border: 2px solid black;
+	padding:1em;
+	font-size:30px
+}
+h3#overview{
+	color:black;
+	font-weight:bold;
+	background:#E77A8B;
+	/*color=deeper shade of pink*/
+	padding:1em;
+	font-size:25px;
+}
+h3.review{
+	background:#C0DD95;
+	/*color=lime green*/
+	border: black solid 1px;
+}
+div#skipnav{
+	color:black;
+	text-align:center;
+	font-size:19px;
+	font-family: Times New Roman;
+	width:10em;
+	margin-left:25em;
+}
+div.info{
+	color:black;
+	text-align:left;
+	font-size:25px;
+	font-family:Times New Roman;
+	width:40%;
+}
+p.temp{
+	color:black;
+	font-family:Times New Roman;
+	font-weight:bold;
+}
+h2#evaluation{
+	color:black;
+	font-family:Times New Roman;
+	font-weight:bold;
+}
+h2#filetypes{
+	color:black;
+	font-family:Times New Roman;
+	font-weight:bold;
+}
+h2#buttons{
+}
+/*navigation menu style*/
+nav{
+	position: fixed;
+	padding: 0.50em 0.50em;
+	text-decoration: none; /* no underline */
+	background-color:white;
+	border: black solid 2px;
+	border-top-left-radius: 1em 1em; /* rounded corner! */
+	border-top-right-radius: 1em 1em; /* another rounded corner! */
+	float:left;
+	right:5px;
+	top:5px;
+	font-family:verdana;
+}
+nav a:hover, a:focus {
+color: red;
+background-color: white;
+font-weight: bold;
+font-size:23px
+}
