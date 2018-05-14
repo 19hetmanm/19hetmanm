@@ -28,12 +28,12 @@ h1 {
 }
 h2 {
 	text-align: center;
-	font-size:30px;
+	font-size:25px;
 	font-family:Oswald;
 }
 h3 {
 	font-family:Oswald;
-	font-size:20px;
+	font-size:23px;
 }
 h4 {
 	font-family:Oswald;
@@ -42,7 +42,7 @@ h4 {
 p {
 	margin:25px;
 	font-family:Oswald;
-	font-size: 23px;
+	font-size: 25px;
 }
 ul {
 	background-color: white;
@@ -88,7 +88,7 @@ td {
 }
 caption{
 	font-family:Roboto;
-	font-size:33px;
+	font-size:30px;
 	margin: 0 auto;
 }
 h4#second_title{
@@ -158,11 +158,11 @@ nav{
 	right:5px;
 	top:5px;
 	font-family:Oswald;
-	font-size:33px;
+	font-size:25px;
 }
 nav a:hover, a:focus {
 color: red;
 background-color: white;
 font-weight: bold;
-font-size:33px;
+font-size:25px;
 }
