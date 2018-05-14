@@ -142,22 +142,28 @@ p.temp{
 }
 h2#evaluation{
 	color:black;
-	font-family:Trattatello;
+	font-family:Trebuchet MS;
 	font-weight:bold;
 	font-size:27px;
 }
 h2#filetypes{
 	color:black;
-	font-family:Trattatello;
+	font-family:Trebuchet MS;
 	font-weight:bold;
 	font-size:27px;
 }
 h2#buttons{
 	color:black;
-	font-family:Trattatello;
+	font-family:Trebuchet MS;
 	font-weight:bold;
 	font-size:27px;
 }
+h2#image{
+	color:black;
+	font-family:Trebuchet MS;
+	font-weight:bold;
+	font-size:27px;
+}	
 /*navigation menu style*/
 nav{
 	position: fixed;
