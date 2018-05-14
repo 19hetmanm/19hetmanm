@@ -87,7 +87,7 @@ td {
 	/*color=purple*/
 }
 caption{
-	font-family:Roboto;
+	font-family:Trattatello;
 	font-size:25px;
 	margin: 0 auto;
 }
@@ -126,12 +126,12 @@ div.info{
 	color:black;
 	text-align:left;
 	font-size:27px;
-	font-family:Roboto;
+	font-family:Trattatello;
 	width:40%;
 }
 p.temp{
 	color:black;
-	font-family:Roboto;
+	font-family:Trattatello;
 	font-weight:bold;
 }
 h2#evaluation{
