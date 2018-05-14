@@ -42,7 +42,7 @@ h4 {
 p {
 	margin:28px;
 	font-family:Trebuchet MS;
-	font-size:24px;
+	font-size:22px;
 }
 ul {
 	background-color: white;
@@ -67,7 +67,7 @@ table{
 	border-color:black;
 	margin: 0 auto;
 	font-family:Trattatello;
-	font-size:27px;
+	font-size:26px;
 	text-align: center;
 }
 th {
@@ -88,10 +88,11 @@ td {
 	background-color:#c299ff;
 	/*color=purple*/
 	font-family:Trattatello;
+	font-size:26px;
 }
 caption{
 	font-family:Trattatello;
-	font-size:25px;
+	font-size:28px;
 	margin: 0 auto;
 }
 h4#second_title{
