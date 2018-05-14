@@ -160,6 +160,8 @@ nav{
 	border: black solid 2px;
 	border-top-left-radius: 1em 1em; /* rounded corner! */
 	border-top-right-radius: 1em 1em; /* another rounded corner! */
+	border-bottom-left-radius: 1em 1em;
+	border-bottom-right-radius: 1em 1em;
 	float:right;
 	right:5px;
 	top:5px;
