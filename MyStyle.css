@@ -28,12 +28,12 @@ h1 {
 }
 h2 {
 	text-align: center;
-	font-size:40px;
+	font-size:39px;
 	font-family:Oswald;
 }
 h3 {
 	font-family:Oswald;
-	font-size: 35px;
+	font-size: 33px;
 }
 h4 {
 	font-family:Oswald;
@@ -47,16 +47,16 @@ p {
 ul {
 	background-color: white;
 	margin:0 auto;
-	font-size:16px;
+	font-size:20px;
 }
 li {
 	font-family:Montserrat;
-	font-size:20px;
+	font-size:29px;
 	margin: 0 auto;
 }
 ol {
 	font-family:Montserrat;
-	font-size:20px;
+	font-size:29px;
 	margin: 0 auto;
 }
 table{
@@ -66,7 +66,7 @@ table{
 	border-color:black;
 	margin: 0 auto;
 	font-family:Montserrat;
-	font-size:20px;
+	font-size:25px;
 	text-align: center;
 }
 th {
@@ -74,7 +74,7 @@ th {
 	border-width:2px;
 	border-style:dotted;
 	border-color:black;
-	font-size:30px;
+	font-size:33px;
 	background-color: #ff99ff;
 	/*color=pink*/
 }
