@@ -116,7 +116,7 @@ h3.review{
 div#skipnav{
 	color:black;
 	text-align:center;
-	font-size:26px;
+	font-size:23px;
 	font-family: Oswald;
 	width:10em;
 	margin-left:25em;
@@ -158,11 +158,11 @@ nav{
 	right:5px;
 	top:5px;
 	font-family:Oswald;
-	font-size:25px;
+	font-size:23px;
 }
 nav a:hover, a:focus {
 color: red;
 background-color: white;
 font-weight: bold;
-font-size:25px;
+font-size:23px;
 }
