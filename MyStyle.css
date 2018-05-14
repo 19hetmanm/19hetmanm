@@ -23,7 +23,7 @@ h1 {
 	border-color:black;
 	margin:5px;
 	font-family:Alfa Slab One;
-	font-size:55px;
+	font-size:58px;
 	text-align: center;
 }
 h2 {
@@ -42,21 +42,21 @@ h4 {
 p {
 	margin:28px;
 	font-family:Oswald;
-	font-size:27px;
+	font-size:25px;
 }
 ul {
 	background-color: white;
 	margin:0 auto;
-	font-size:27px;
+	font-size:25px;
 }
 li {
 	font-family:Montserrat;
-	font-size:27px;
+	font-size:25px;
 	margin: 0 auto;
 }
 ol {
 	font-family:Montserrat;
-	font-size:27px;
+	font-size:25px;
 	margin: 0 auto;
 }
 table{
