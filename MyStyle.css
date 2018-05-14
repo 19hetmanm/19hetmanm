@@ -29,19 +29,19 @@ h1 {
 h2 {
 	text-align: center;
 	font-size:27px;
-	font-family:Trattatello;
+	font-family:Trebuchet MS;
 }
 h3 {
-	font-family:Trattatello;
+	font-family:Trebuchet MS;
 	font-size:23px;
 }
 h4 {
-	font-family:Trattatello;
+	font-family:Trebuchet MS;
 	font-size: 20px;
 }
 p {
 	margin:28px;
-	font-family:Geneva;
+	font-family:Trebuchet MS;
 	font-size:25px;
 }
 ul {
@@ -158,7 +158,7 @@ nav{
 	float:right;
 	right:5px;
 	top:5px;
-	font-family:Geneva;
+	font-family:Trebuchet MS;
 	font-size:20px;
 }
 nav a:hover, a:focus {
