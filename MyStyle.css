@@ -153,6 +153,10 @@ h2#filetypes{
 	font-size:27px;
 }
 h2#buttons{
+	color:black;
+	font-family:Trattatello;
+	font-weight:bold;
+	font-size:27px;
 }
 /*navigation menu style*/
 nav{
