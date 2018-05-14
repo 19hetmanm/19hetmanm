@@ -22,21 +22,22 @@ h1 {
 	border-style:dotted;
 	border-color:black;
 	margin:5px;
-	font-family:Arial;
+	font-family:Alfa Slab One;
 	font-size:55px;
 	text-align: center;
 }
 h2 {
 	text-align: center;
-	font-size:30px;
+	font-size:45px;
+	font-family:Oswald;
 }
 h3 {
-	font-family:Times New Roman;
-	font-size: 20px;
+	font-family:Oswald;
+	font-size: 35px;
 }
 h4 {
-	font-family:Times New Roman;
-	font-size: 15px;
+	font-family:Oswald;
+	font-size: 25px;
 }
 p {
 	margin:25px;
@@ -47,7 +48,7 @@ ul {
 	font-size:16px;
 }
 li {
-	font-family:Times New Roman;
+	font-family:Montserrat;
 	font-size:20px;
 	margin: 0 auto;
 }
@@ -57,7 +58,7 @@ table{
 	border-style:solid;
 	border-color:black;
 	margin: 0 auto;
-	font-family:Times New Roman;
+	font-family:Montserrat;
 	font-size:20px;
 	text-align: center;
 }
@@ -79,7 +80,7 @@ td {
 	/*color=purple*/
 }
 caption{
-	font-family:Arial;
+	font-family:Roboto;
 	font-size:45px;
 	margin: 0 auto;
 }
@@ -109,7 +110,7 @@ div#skipnav{
 	color:black;
 	text-align:center;
 	font-size:19px;
-	font-family: Times New Roman;
+	font-family: Oswald;
 	width:10em;
 	margin-left:25em;
 }
@@ -122,17 +123,17 @@ div.info{
 }
 p.temp{
 	color:black;
-	font-family:Times New Roman;
+	font-family:Roboto;
 	font-weight:bold;
 }
 h2#evaluation{
 	color:black;
-	font-family:Times New Roman;
+	font-family:Oswald;
 	font-weight:bold;
 }
 h2#filetypes{
 	color:black;
-	font-family:Times New Roman;
+	font-family:Roboto;
 	font-weight:bold;
 }
 h2#buttons{
@@ -149,7 +150,7 @@ nav{
 	float:left;
 	right:5px;
 	top:5px;
-	font-family:verdana;
+	font-family:Oswald;
 }
 nav a:hover, a:focus {
 color: red;
