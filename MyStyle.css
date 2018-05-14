@@ -48,6 +48,7 @@ ul {
 	background-color: white;
 	margin:0 auto;
 	font-size:23px;
+	font-family:Comic Sans MS;
 }
 li {
 	font-family:Comic Sans MS;
@@ -77,6 +78,7 @@ th {
 	font-size:26px;
 	background-color: #ff99ff;
 	/*color=pink*/
+	font-family:Trattatello;
 }
 td {
 	padding:1em;
@@ -85,6 +87,7 @@ td {
 	border-color:black;
 	background-color:#c299ff;
 	/*color=purple*/
+	font-family:Trattatello;
 }
 caption{
 	font-family:Trattatello;
@@ -99,6 +102,7 @@ h4#second_title{
 	border: 2px solid black;
 	padding:1em;
 	font-size:27px
+	font-family:Trattatello;
 }
 h3#overview{
 	color:black;
@@ -107,6 +111,7 @@ h3#overview{
 	/*color=deeper shade of pink*/
 	padding:1em;
 	font-size:27px;
+	font-family:Trattatello;
 }
 h3.review{
 	background:#C0DD95;
