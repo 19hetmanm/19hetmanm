@@ -28,35 +28,35 @@ h1 {
 }
 h2 {
 	text-align: center;
-	font-size:39px;
+	font-size:30px;
 	font-family:Oswald;
 }
 h3 {
 	font-family:Oswald;
-	font-size: 33px;
+	font-size:20px;
 }
 h4 {
 	font-family:Oswald;
-	font-size: 25px;
+	font-size: 20px;
 }
 p {
 	margin:25px;
 	font-family:Oswald;
-	font-size: 35px;
+	font-size: 23px;
 }
 ul {
 	background-color: white;
 	margin:0 auto;
-	font-size:33px;
+	font-size:23px;
 }
 li {
 	font-family:Montserrat;
-	font-size:29px;
+	font-size:23px;
 	margin: 0 auto;
 }
 ol {
 	font-family:Montserrat;
-	font-size:29px;
+	font-size:23px;
 	margin: 0 auto;
 }
 table{
@@ -74,7 +74,7 @@ th {
 	border-width:2px;
 	border-style:dotted;
 	border-color:black;
-	font-size:33px;
+	font-size:30px;
 	background-color: #ff99ff;
 	/*color=pink*/
 }
@@ -88,7 +88,7 @@ td {
 }
 caption{
 	font-family:Roboto;
-	font-size:45px;
+	font-size:33px;
 	margin: 0 auto;
 }
 h4#second_title{
@@ -98,7 +98,7 @@ h4#second_title{
 	/*color=deeper shade of purple*/
 	border: 2px solid black;
 	padding:1em;
-	font-size:30px
+	font-size:25px
 }
 h3#overview{
 	color:black;
@@ -154,15 +154,15 @@ nav{
 	border: black solid 2px;
 	border-top-left-radius: 1em 1em; /* rounded corner! */
 	border-top-right-radius: 1em 1em; /* another rounded corner! */
-	float:middle;
+	float:right;
 	right:5px;
 	top:5px;
 	font-family:Oswald;
-	font-size:35px;
+	font-size:33px;
 }
 nav a:hover, a:focus {
 color: red;
 background-color: white;
 font-weight: bold;
-font-size:35px;
+font-size:33px;
 }
